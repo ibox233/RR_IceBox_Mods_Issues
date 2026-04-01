@@ -11,8 +11,8 @@
 本仓库是以下模组的**官方反馈通道**：
 
 ### 支持的模组
-
-
+- IceBoxModLib
+- AutoPriceManager
 
 ### 如何报告问题
 
@@ -45,7 +45,8 @@ Welcome to the IceBox's Roadside Research mod series issue feedback and suggesti
 This repository is the **official feedback channel** for the following mods:
 
 ### Supported Mods
-
+- IceBoxModLib
+- AutoPriceManager
 
 ### How to Report Issues
 
