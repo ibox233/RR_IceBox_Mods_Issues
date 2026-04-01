@@ -34,7 +34,7 @@
 - **Steam**：[https://steamcommunity.com/id/ibox666/](https://steamcommunity.com/id/ibox666/)
 - **Email**：764884112@qq.com 或 ibox2333@gmail.com
 
-*最后更新：2026年04月01日*
+*最后更新：2026年04月02日*
 
 ---
 
@@ -66,6 +66,6 @@ Before submitting an issue, please ensure:
 
 - **GitHub Issues**: The primary feedback channel
 - **Steam**: [https://steamcommunity.com/id/ibox666/](https://steamcommunity.com/id/ibox666/)
-- **Email**：764884112@qq.com 或 ibox2333@gmail.com
+- **Email**：764884112@qq.com or ibox2333@gmail.com
 
-*Last Updated: April 01, 2026*
+*Last Updated: April 02, 2026*
