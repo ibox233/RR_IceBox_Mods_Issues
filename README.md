@@ -12,7 +12,11 @@
 
 ### 支持的模组
 - IceBoxModLib
+- AutoFuelRestocker
+- AutoInterrogation
 - AutoPriceManager
+- PerfectSelfCheckout
+- StockShelfBeacon
 
 ### 如何报告问题
 
@@ -46,7 +50,11 @@ This repository is the **official feedback channel** for the following mods:
 
 ### Supported Mods
 - IceBoxModLib
+- AutoFuelRestocker
+- AutoInterrogation
 - AutoPriceManager
+- PerfectSelfCheckout
+- StockShelfBeacon
 
 ### How to Report Issues
 
@@ -68,4 +76,4 @@ Before submitting an issue, please ensure:
 - **Steam**: [https://steamcommunity.com/id/ibox666/](https://steamcommunity.com/id/ibox666/)
 - **Email**：764884112@qq.com or ibox2333@gmail.com
 
-*Last Updated: April 02, 2026*
+*Last Updated: April 13, 2026*
