@@ -44,36 +44,39 @@
 
 ## English
 
-Welcome to the IceBox's Roadside Research mod series issue feedback and suggestion collection repository!
+Welcome to the Issue Tracker and Suggestion Repository for IceBox's Game Mods!
 
-This repository is the **official feedback channel** for the following mods:
+This repository serves as the **official feedback channel** for my mods for the following games:
 
-### Supported Mods
-- IceBoxModLib
-- AutoFuelRestocker
-- AutoInterrogation
-- AutoPriceManager
-- PerfectSelfCheckout
-- StockShelfBeacon
+### Games I've Modded
+- Outbound
+- Goblin Vyke: The Thief Tycoon
+- Windrose
+- Supermarket Together
+- Island Market Simulator
+- Roadside Research
+- Ranch Simulator
+- Ship Graveyard Simulator
+- Old Market Simulator
 
-### How to Report Issues
+### How to Report an Issue
 
-Before submitting an issue, please ensure:
+Before submitting an issue, please ensure you:
 
-1. **Search Existing Issues**: Check if there are already the same or similar issue reports
-2. **Confirm Mod Version**: Please specify the exact mod version number in the issue
-3. **Provide Detailed Information**: Include game version, other mod lists, error logs, etc.
+1. **Search existing issues**: Check if the same or a similar issue has already been reported.
+2. **Verify the mod version**: Please specify the exact version number of the mod in your report.
+3. **Provide detailed information**: Include the game version, a list of other installed mods, error logs, etc.
 
-### Issue Label Descriptions
+### Issue Labels Guide
 
-- ![bug](https://img.shields.io/badge/-bug-d73a4a) **Bug**: Mod functionality abnormalities or errors
-- ![enhancement](https://img.shields.io/badge/-enhancement-a2eeef) **Enhancement**: New feature suggestions
-- ![question](https://img.shields.io/badge/-question-d876e3) **Question**: Usage-related inquiries
+- ![bug](https://img.shields.io/badge/-bug-d73a4a) **Bug**: Mod malfunctions or errors.
+- ![enhancement](https://img.shields.io/badge/-enhancement-a2eeef) **Enhancement**: Suggestions for new features.
+- ![question](https://img.shields.io/badge/-question-d876e3) **Question**: Inquiries related to using the mods.
 
 ### Contact Information
 
-- **GitHub Issues**: The primary feedback channel
+- **GitHub Issues**: The primary channel for feedback.
 - **Steam**: [https://steamcommunity.com/id/ibox666/](https://steamcommunity.com/id/ibox666/)
-- **Email**：764884112@qq.com or ibox2333@gmail.com
+- **Email**: 764884112@qq.com or ibox2333@gmail.com
 
-*Last Updated: April 13, 2026*
+*Last updated: May 12, 2026*
